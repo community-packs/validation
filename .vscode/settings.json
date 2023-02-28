@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/f03b528b-f023-4ecd-8c86-57533fd4785f/resourceGroups/fordemo/providers/Microsoft.Web/sites/davy",
+  "appService.deploySubpath": "."
+}
