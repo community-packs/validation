@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'test'",
-    "start": "npm install && node index.js"
+    "start": "npx pm2 start"
   },
   "author": "",
   "license": "ISC",
